@@ -1,0 +1,9 @@
+{
+  "name": "create-js-minimal",
+  "version": "0.0.21",
+  "main": "index.mjs",
+  "files": [
+    "template"
+  ],
+  "bin": "index.mjs"
+}
